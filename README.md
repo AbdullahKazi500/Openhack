@@ -1,4 +1,4 @@
-# QTicTacToe
+# QTicTacToe Qbraid Open Hack
 
 A Quantum Version of the classic TicTacToe Game. 
 .    Team members
