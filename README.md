@@ -1,6 +1,7 @@
 # QTicTacToe
 
-A Quantum Version of the classic TicTacToe Game. This game was originally created for the Quantum Coalition Hackathon 2022, and later improved as a personal project. We are still working on a UI, so currently you can only play the game on Jupyter Notebook Consoles.
+A Quantum Version of the classic TicTacToe Game. 
+. We are still working on a UI, so currently you can only play the game on Jupyter Notebook Consoles.
 
 ## General Rules:
 
