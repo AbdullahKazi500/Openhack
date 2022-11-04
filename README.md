@@ -1,5 +1,5 @@
-      # Openhack
-            Qbraid open hack
+   # Openhack
+    Qbraid open hack
      Team members
                  Rohit Saini
                  Abdullah Kazi
@@ -11,8 +11,8 @@
         open submission
         A Quantum Version of the classic TicTacToe Game
        Additional comments
-       Check Qmodel_version2.ipynb
-       & README.md
+              Check Qmodel_version2.ipynb
+              & README.md
        General Rules: 
            Instead of placing normal crosses and noughts, you will be placing superpositions of crosses and noughts called Qubits.
            The 3x3 Grid is numbered from 0-8 (Top-Left to Bottom-Right, row-wise)
