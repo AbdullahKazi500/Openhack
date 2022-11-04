@@ -1,7 +1,18 @@
 # QTicTacToe
 
 A Quantum Version of the classic TicTacToe Game. 
-. 
+.    Team members
+        Rohit Saini
+        Abdullah Kazi
+        Pranav Maheshwari
+        Rishabh Singh
+        Vansh Jhunjhunwala
+        Soubhadra Maiti
+Submission summary
+open submission
+Additional comments
+Check Qmodel_VERSION2.ipynb
+The coding was done on qbraid platform 
 
 ## General Rules:
 
